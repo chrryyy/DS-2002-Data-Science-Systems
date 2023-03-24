@@ -1,0 +1,6 @@
+Notes:
+
+- The Lab2c SQL script was used to create the date dimension table which was then integrated in the Jupyter notebook.
+- The sakila_film.json file was used to populate the MongoDB database source. 
+- The sakila_customer.csv was used as the local file system source.
+- The sakila_staff.csv, sakila_rental.csv and sakila_inventory.csv files were extracted through a MySQL connection, but the csv files are provided here for easy access.
